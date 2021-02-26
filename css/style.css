@@ -5,6 +5,10 @@
 	font-size: 100%;
 }
 
+.header {
+	background-image: url("../images/background.jpg")
+}
+
 .title {
 	font-size: 48px;
 	font-family: Palantino, 'Palatino linotype', serif;
