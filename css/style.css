@@ -1,3 +1,10 @@
+* {
+	Margin:0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+}
+
 .title {
 	font-size: 48px;
 	font-family: Palantino, 'Palatino linotype', serif;
