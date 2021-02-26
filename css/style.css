@@ -37,3 +37,11 @@ img {
 .google-font {
 	font-family: 'DotGothic16', sans-serif;
 }
+
+.footer {
+	background-image: url("../images/background.jpg")
+}
+
+.buasinfo {
+	color: white
+}
